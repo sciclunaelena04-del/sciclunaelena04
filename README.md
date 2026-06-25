@@ -1,6 +1,6 @@
 # sciclunaelena04
 # 💫 About Me:
-Currently working on Raspberry Pi projects<br>Learning, Python, HTML and CSS
+Currently studying software development<br>Learning, Python, HTML and CSS
 
 
 # 💻 Tech Stack:
